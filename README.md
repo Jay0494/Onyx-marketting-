@@ -1,11 +1,10 @@
 ### Business Name: **GlowHive**
 
-### Problem:
-**"GlowHive struggles with optimizing its digital marketing spend across social media channels to maximize customer conversions and engagement while ensuring high ROI. Despite substantial investments in campaigns across platforms like Instagram, Pinterest, and Facebook, there is inconsistency in conversion rates, engagement levels, and ROI by channel and campaign type. GlowHive needs a targeted strategy to determine which channels, ad formats, and campaign timings are most effective to refine their approach, reduce wasteful spending, and achieve sustainable growth in revenue."**
-
 #### Background:
 GlowHive, a beauty and wellness brand known for eco-friendly skincare products, has a significant online presence across multiple social platforms. However, their marketing data reveals varied performance, with Pinterest driving the highest conversion rates, but Instagram bringing in more engagement. Additionally, while some campaigns like Summer Sales show high conversions, others fall short, especially on mobile devices and on channels with higher ad spending.
 
+### Problem:
+**"GlowHive struggles with optimizing its digital marketing spend across social media channels to maximize customer conversions and engagement while ensuring high ROI. Despite substantial investments in campaigns across platforms like Instagram, Pinterest, and Facebook, there is inconsistency in conversion rates, engagement levels, and ROI by channel and campaign type. GlowHive needs a targeted strategy to determine which channels, ad formats, and campaign timings are most effective to refine their approach, reduce wasteful spending, and achieve sustainable growth in revenue."**
 #### Goal:
 GlowHive aims to increase the efficiency of its marketing budget by identifying the best-performing channels, ad types, and campaign periods. This will allow them to concentrate resources on what works best, driving higher conversions and ROI while optimizing for both desktop and mobile user experiences.
 
@@ -80,5 +79,3 @@ GlowHive aims to increase the efficiency of its marketing budget by identifying 
 
 4. **ROI Tracking and Optimization**:
    - Track ROI monthly, especially for Facebook, to identify underperforming campaigns quickly and adjust the budget as necessary.
-
-By focusing on these insights and recommendations, Onyx can further enhance its marketing effectiveness, streamline its spending, and optimize conversion rates across its digital channels.
