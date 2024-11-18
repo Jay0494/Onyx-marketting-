@@ -1,81 +1,103 @@
-### Business Name: **GlowHive**
+#### Business Name: **GlowHive**
 
-#### Background:
-GlowHive, a beauty and wellness brand known for eco-friendly skincare products, has a significant online presence across multiple social platforms. However, their marketing data reveals varied performance, with Pinterest driving the highest conversion rates, but Instagram bringing in more engagement. Additionally, while some campaigns like Summer Sales show high conversions, others fall short, especially on mobile devices and on channels with higher ad spending.
+---
 
-### Problem:
-**"GlowHive struggles with optimizing its digital marketing spend across social media channels to maximize customer conversions and engagement while ensuring high ROI. Despite substantial investments in campaigns across platforms like Instagram, Pinterest, and Facebook, there is inconsistency in conversion rates, engagement levels, and ROI by channel and campaign type. GlowHive needs a targeted strategy to determine which channels, ad formats, and campaign timings are most effective to refine their approach, reduce wasteful spending, and achieve sustainable growth in revenue."**
-#### Goal:
-GlowHive aims to increase the efficiency of its marketing budget by identifying the best-performing channels, ad types, and campaign periods. This will allow them to concentrate resources on what works best, driving higher conversions and ROI while optimizing for both desktop and mobile user experiences.
+### Background
+GlowHive, a beauty and wellness brand recognized for eco-friendly skincare products, has an extensive digital footprint across major social platforms. I'm partnering with the head of marketing to extract insights and deliver recommendations to improve performance.
+Their marketing data show mixed results: Pinterest leads with high conversion rates, while Instagram delivers strong engagement. Yet, substantial ad investments have yielded inconsistent ROI, especially in mobile formats and certain high-spend campaigns. 
 
-### Insights
-![marketting analysis ](https://github.com/user-attachments/assets/24833b3b-3e1e-4ef8-b101-7c18fa2e7abd)
+---
+
+### Problem Statement
+**GlowHive faces challenges in optimizing digital marketing spend to improve both conversions and engagement while maximizing ROI.** Despite considerable expenditure on social platforms like Instagram, Pinterest, and Facebook, channel-specific performance remains erratic, hindering sustainable revenue growth.
+
+---
+
+### Key Insights:
 
 1. **Conversion Rates by Channel**:
-   - **Pinterest** remains the top-performing channel with a conversion rate of **26.81%**, followed by **Instagram** at **22.72%** and **Facebook** at **18.77%**.
+   - **Pinterest**: Highest conversion rate at **26.8%**.
+   - **Instagram**: Strong but lower at **22.7%**.
+   - **Facebook**: The lowest among the three at **18.8%**.
 
-2. **Conversion Rates by Ad Type**:
-   - **Discount Ads** drive significantly higher conversions at **60.89%**, compared to **Collection Ads** at **39.11%**.
+2. **Ad Type Performance**:
+   - **Discount Ads**: Drive the highest conversion rate at **60.89%**.
+   - **Collection Ads**: Less effective, with a conversion rate of **39.11%**.
 
-3. **Device Type Impact on Conversion**:
-   - Conversions are slightly higher for **desktop users (54.01%)** compared to **mobile users (45.99%)**.
+3. **Device Impact on Conversion**:
+   - **Desktop**: Slightly higher conversion rate at **54.01%**.
+   - **Mobile**: Slightly lower at **45.99%**.
 
-4. **Conversion Rates by Campaign**:
-   - The **Summer campaign** has the highest conversion rate at **32.85%**, with **Spring** (21.88%) and **Fall** (17.49%) following behind, indicating seasonal variations in campaign performance.
+4. **Campaign Conversion Performance**:
+   - **Summer Campaign**: Leads with a conversion rate of **32.9%**.
+   - **Spring**: Follows at **21.9%**.
+   - **Fall**: Lags behind at **17.5%**.
 
-5. **Conversion Rate Trends Over Time**:
-   - Conversion peaks occurred in **May (34.37%)** and **August (31.69%)**, which may reflect successful campaigns or heightened interest during these months.
+5. **Engagement Metrics**:
+   - **Summer Campaign**: Highest engagement rate at **9.05%**.
+   - **Spring**: Moderate at **6.13%**.
+   - **Fall**: Lowest at **5.85%**.
+   - **Instagram**: Tops in engagement by channel at **7.19%**, followed by **Facebook (6.72%)** and **Pinterest (6.12%)**.
 
-6. **Engagement Rates**:
-   - The **Summer campaign** has the highest engagement rate at **9.05%**, with Spring and Fall at **6.13%** and **5.85%**, respectively.
-   - By channel, **Instagram** has the highest engagement at **7.19%**, followed by **Facebook** (6.72%) and **Pinterest** (6.12%).
+6. **Monthly Trends**:
+   ![reven](https://github.com/user-attachments/assets/7d3620b7-6503-423a-976a-e6d8157965ed)
 
-7. **Monthly Engagement Trends**:
-   - Peak engagement occurred in **May (9.52%)**, **August (8.57%)**, and **November (9.08%)**, indicating strategic times for increased activity.
-![marketting 2](https://github.com/user-attachments/assets/67e44965-c70f-45f8-bfd8-5ebef1b5772f)
+   - **Revenue Growth**: Highest in **september (+50.22%)**.
+---
+   
+![enga](https://github.com/user-attachments/assets/303aa7e4-1e2d-4161-a14c-d377b08408f4)
 
-8. **Monthly Changes in Revenue and Expenses**:
-   - Revenue surged in **April (+136.60%)** and **August (+50.22%)**, while July had increased expenses but saw a revenue decline, suggesting low returns on investments made that month.
+   - **Engagement Peaks**: In **June (9.52%)**, **July (9.08%)**, and **August (8.57%)**.
 
-9. **Spending by Channel**:
-   - Highest spending is on **Facebook** at **£71.61K**, followed by **Instagram** (£63.39K) and **Pinterest** (£28.24K).
 
-10. **Campaign ROI by Channel**:
-    - **Pinterest** offers the highest campaign ROI at **2150%**, while **Instagram** and **Facebook** show ROIs of **980%** and **480%**, respectively, underscoring Pinterest's high effectiveness in generating returns.
+---
+   ![2 new](https://github.com/user-attachments/assets/f7f28bba-ffb0-416e-97dc-c42f42e15fe8)
 
-11. **Overall Financial Performance**:
-    - Total expenses amount to **£163.25K** with a generated revenue of **£1.73M**, yielding an overall **ROI of 960.77%**.
+   - **Conversion Rate Trends**: Peaks in **June (34.4%)**, **July (32.6%)**, and **August (31.7%)**.
 
-### Recommendations
+7. **Channel Spending and ROI**:
+   - **Facebook**: Highest spending at **£71.61K** but the lowest ROI at **480%**.
+   - **Instagram**: Second highest spend at **£63.39K** with an ROI of **980%**.
+   - **Pinterest**: Lowest spend at **£28.24K** but yields the highest ROI at **2150%**.
+   - **Overall Financials**: **£163.25K** total expenses, generating **£1.73M** revenue, resulting in an overall ROI of **960.77%**.
 
-1. **Increase Investment in High-Performing Channels**:
-   - Since **Pinterest** provides the highest conversion rate and ROI, consider increasing the budget allocation for Pinterest to maximize conversions and revenue.
+---
 
-2. **Focus on Discount Ads**:
-   - The success of discount ads in driving conversions (60.89%) suggests replicating this approach across additional campaigns and potentially combining it with seasonal promotions for better results.
+### Recommendations:
 
-3. **Capitalize on High-Engagement Months**:
-   - Plan major campaigns or product launches in **May, August, and November** to leverage increased engagement and interest. These months may be opportune for higher budget allocations.
+1. **Prioritize Pinterest**:
+   - Increase budget allocation to **Pinterest**, given its superior ROI and high conversion rate. Focus resources to capitalize on the effectiveness of this channel.
 
-4. **Optimize Campaigns for Desktop Users**:
-   - As desktop users have a higher conversion rate, further optimize desktop ads and consider personalized desktop experiences to capitalize on this audience.
+2. **Leverage Discount Ads**:
+   - Expand the use of **Discount Ads** across more campaigns. Given their high success rate (60.89%), incorporate these into both seasonal and regular promotions for better conversion results.
 
-5. **Improve Facebook Campaign Efficiency**:
-   - Facebook shows lower ROI and conversion rates relative to its spend, so reassess ad targeting, formats, or frequency on this platform to increase returns or reduce unnecessary expenditure.
+3. **Seasonal Campaign Focus**:
+   - Concentrate campaign efforts around **high-conversion months** like **June, July, and August**, aligning product launches and promotions with these peaks.
 
-6. **Manage Monthly Spend During Low-Return Periods**:
-   - Review spending patterns in months like **July**, where expenses increased but did not yield proportionate revenue, to avoid similar high-cost, low-return periods.
+4. **Engagement Strategy on Instagram**:
+   - Enhance content strategies on **Instagram** to leverage its strong engagement (7.19%). Consider interactive content like stories, reels, and user-generated content to drive engagement further.
 
-### Next Steps
+5. **Optimize Mobile Experience**:
+   - Address the conversion gap on mobile (45.99%) by optimizing mobile ad formats and improving mobile site performance, ensuring a seamless experience for users.
 
-1. **A/B Test Ad Types**:
-   - Conduct A/B testing on discount and collection ads across various demographics to determine if these strategies are universally effective or if certain customer segments respond better to different types.
+6. **Reduce Spending on Low-ROI Channels**:
+   - Reevaluate the approach on **Facebook**, where spending is high but returns are low. Optimize ad creatives, adjust targeting strategies, or consider reallocating some budget to higher-performing channels.
 
-2. **Seasonal Campaign Strategy**:
-   - Build a seasonal marketing calendar that prioritizes high-conversion and high-engagement months (May, August, November), using successful past campaigns as templates.
+7. **Revenue and Expense Management**:
+   - Closely monitor spending in months like **July**, where higher expenses didn't yield a proportional revenue increase. Consider strategic spending adjustments or more targeted campaigns during historically low-return periods.
 
-3. **Channel-Specific Content**:
-   - For Facebook, consider implementing new content strategies or visuals to increase engagement and conversion rates, potentially mimicking the style that works well on Pinterest or Instagram.
+---
 
-4. **ROI Tracking and Optimization**:
-   - Track ROI monthly, especially for Facebook, to identify underperforming campaigns quickly and adjust the budget as necessary.
+### Next Steps:
+
+1. **A/B Testing**:
+   - Implement A/B testing for ad types across demographics to refine and personalize campaigns. Test variations of discount versus collection ads to uncover deeper audience insights.
+
+2. **Seasonal Marketing Calendar**:
+   - Develop a calendar that prioritizes peak engagement and conversion periods. Leverage past successful campaigns to replicate winning strategies.
+
+3. **Content Experimentation**:
+   - Experiment with new content formats on **Facebook**. Analyze performance data to understand if creative changes can boost engagement and conversions.
+
+4. **Data-Driven Optimization**:
+   - Set up a system for **real-time monitoring** of ROI and performance metrics. Quickly adapt strategies for underperforming campaigns to optimize resource allocation.
