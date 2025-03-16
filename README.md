@@ -1,5 +1,12 @@
 #### Business Name: **GlowHive**
+---
 
+## TABLE OF CONTENTS
+- [Background](#background)
+- [Problem-Statement](#problem-statement)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Thought-Process-Behind-the-Analysis](#thought-process-behind-the-analysis)
 ---
 
 ### Background
@@ -44,7 +51,7 @@ Their marketing data show mixed results: Pinterest leads with high conversion ra
 
 ---
 
-## **Recommendations:**  
+### **Recommendations:**  
 
 1. **Reallocate Budget to High-ROI Channels & Campaigns:**  
    - Increase investment in **Pinterest** as it has the highest ROI while currently receiving the lowest spend.  
@@ -69,7 +76,7 @@ Their marketing data show mixed results: Pinterest leads with high conversion ra
 
 ---
 
-## **Next Steps:**  
+### **Next Steps:**  
 
 1. **Conduct a Budget Reallocation Test:**  
    - Increase Pinterest spend by **at least 30%** and assess performance.  
@@ -91,7 +98,7 @@ By executing these recommendations, GlowHive can **optimize digital marketing sp
 
 ---
 
-## **Thought Process Behind the Analysis**  
+### **Thought Process Behind the Analysis**  
 
 ### **1. Understanding the Business Context**  
 GlowHive is an eco-friendly beauty and wellness brand with a strong digital presence. Given the competitive nature of the industry, optimizing digital marketing spend is crucial to improving conversions and engagement while ensuring a sustainable ROI.  
